@@ -52,7 +52,7 @@
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
- :default-home {:page "README" }
+ :default-home {:page "Contents" }
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["nobelium" "学习目标" "更新日志" "README" "书单" "Git" "Logseq" "Contents" "MyRSS" "从WorkFlowy迁移过来的卡片"]
+ :favorites ["nobelium" "学习目标" "更新日志" "书单" "Git" "Logseq" "Contents" "MyRSS" "从WorkFlowy迁移过来的卡片"]
  :journal/page-title-format "yyyy-MM-dd"
  :editor/preferred-pasting-file? true
 
